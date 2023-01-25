@@ -1,2 +1,2 @@
 # NEXT_JS_API
-To learn how to create a proper application of next js with API
+The Objective of this project is to have a boiler plate which calls API which is built in the same app.
